@@ -1,13 +1,4 @@
-# Chele Accessories Department
 
-A responsive two-page React web application for an accessories store created to satisfy the assignment brief.
-
-## Project Details
-
-- Name: Chele Accessories Department
-- Faculty: Faculty of Information Communication Technology
-- Course: Diploma in Software Engineering and Multimedia
-- Semester: 1
 
 ## Features
 
@@ -35,7 +26,4 @@ npm test -- --watch=false
 
 npm run build
 
-## Notes
-
-This project is designed as a concept store website and includes the assignment information in the footer and contact section as requested.
 
